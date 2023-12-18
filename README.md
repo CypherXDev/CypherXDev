@@ -29,7 +29,7 @@ In essence, I am a seasoned industry professional weaving technical proficiency 
 
 
 ### Makerspace & IT:
-♦ Head of Information Technology (2020 - Present)
+♦ Head of Information Technology (2020 - Present) <br />
 • Manage and maintain email and file sharing servers. <br />
 • Handled tech for multimedia (Live Streaming & Recording). <br />
 • Developed, manage, and maintain public and private facing websites. <br />
@@ -38,7 +38,7 @@ In essence, I am a seasoned industry professional weaving technical proficiency 
 • Managed and maintained social media and marketing presence on multiple platforms ( Instagram, Facebook, Twitter.). <br />
 • Manage and maintain enterprise Google and Microsoft workspaces. <br />
 
-♦ Assistant Makerspace Coordinator (2019 - Present)
+♦ Assistant Makerspace Coordinator (2019 - Present) <br />
 • Managed and maintained a variety of machines, including 3D printers, CNC machines, vinyl cutters, embroidery machines, VR stations, game development stations, PCB mills, and more. <br />
 • Lead Technical Writer for instructional guides. <br />
 • Oversaw all staff, managing scheduling and individual projects. <br />
