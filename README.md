@@ -11,16 +11,16 @@ In essence, I am a seasoned industry professional weaving technical proficiency 
 ## Experience:
 *Company/organization names not included for privacy.*
 ### Gaming Industry:
-♦ Systems Tester, Community Management (GTAV RP Servers | August 2019 - December 2022) <br />
+♦ Developer, Systems Tester, Community Management (GTAV RP Servers | August 2019 - September 2023) <br />
   Worked with 2 individual companies: <br />
   2019 - 2020 Community Management  <br />
-  2020 - 2022 Systems Tester, Community Management <br />
+  2020 - 2023 Developer, Systems Tester, Community Management <br />
     • Spearheaded the testing of player progression & stat systems, resulting in a general increase in overall user satisfaction. <br />
     • Conducted compatibility testing across various hardware/software configurations and platforms, ensuring a seamless gaming experience for end-users. <br />
     • Provided valuable input during design and development phases, contributing to the creation of a more robust and user-friendly experience. <br />
     • Overlooked community moderation, feedback, and interaction. Boosted interaction through the introduction of in game events between moderators, developers, and the community. <br />
 
-♦ CXDev Hosting - Server Hosting, Community Managemenr (Websites, Databases, Games | 2022-2023) <br />
+♦ CXDev Hosting - Server Hosting, Community Managemenr (Websites, Databases, Games | 2022-Present) <br />
 • Hosted personal and professional websites on personal home servers and AWS. <br />
 • Hosted multiplayer games on a professional level on personal home servers and AWS. <br />
 • Worked closely on SteamCMD and Microsoft (Xbox) and others to host servers for popular games like RUST, Ark SE, Minecraft, and more. <br />
