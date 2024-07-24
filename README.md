@@ -102,9 +102,10 @@ In essence, I am a seasoned industry professional weaving technical proficiency 
 • HTML & CSS, Web Development - Proficient <br />
 • Python - Experienced <br />
 • JSON - Experienced <br />
-• Java - Entry Level  <br />
-• C++ - Entry Level <br />
-• Javascript - Entry Level <br />
+• Java - Proficient  <br />
+• C++ - Proficient <br />
+• Javascript - Proficient <br />
+• LUA - Proficient <br />
 • SQL - Entry Level
 ### Machines:
 • FDM 3D Printing (Prusa, Ultimaker, Elegoo) <br />
